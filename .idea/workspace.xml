@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4046cf5d-6425-45ab-80b0-6713677e876b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ChatApp" />
+  </component>
+  <component name="ProjectId" id="1ai6m7Wsr5RDKnfBY1a1p1rdLP6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/public/login" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChatAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.chatapp.ChatAppApplication" />
+      <module name="ChatApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sk.chatapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatAppApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4046cf5d-6425-45ab-80b0-6713677e876b" name="Default Changelist" comment="" />
+      <created>1587206222450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587206222450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="951" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587928506932">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="951" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.947@0.23.1680.947" timestamp="1587928506932" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1588449150014">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588448667432" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1588449150014" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1588449150013">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588448667430" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1588449150013" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1588449150012">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588448667429" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1588449150012" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1588449150014">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588448667431" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1588449150014" />
+    <state x="752" y="155" key="Maven.ArtifactSearchDialog" timestamp="1587928860555">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="752" y="155" key="Maven.ArtifactSearchDialog/0.23.1680.947@0.23.1680.947" timestamp="1587928860555" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1588434492574">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1588434492574" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1588448495753">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588448495753" />
+    <state x="217" y="222" key="new project wizard" timestamp="1588448162160">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="222" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1588448162160" />
+  </component>
+</project>
