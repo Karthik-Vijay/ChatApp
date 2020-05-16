@@ -25,9 +25,12 @@ public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter{
 		http
 			.csrf().disable()
 			.authorizeRequests()
+		    .antMatchers("/performLogin","/css/login.css","/js/login.js","/login.html").permitAll()
 			.anyRequest().authenticated()
 			.and()
-			.formLogin();
+			.formLogin()
+		    .loginPage("/login.html")
+		    .loginProcessingUrl("/performLogin");
 	}
 	
 	@Override
